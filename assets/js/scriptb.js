@@ -40,8 +40,8 @@ var c = document.getElementById('logo');
      ctx.fillStyle = "#8c8c8c";
      ctx.fillText("École du numérique", 635,440);
      ctx.fillText("du Noyonnais", 635,485);
-     //LES HEXAGONE
-       //TOUT EN HAUT
+     //LES HEXAGONES
+       //CELUI DU HAUT
      ctx.beginPath();
      ctx.fillStyle = "#ebebeb";
      ctx.moveTo(980,140);
@@ -52,7 +52,7 @@ var c = document.getElementById('logo');
      ctx.lineTo(965,130);
      ctx.lineTo(980,140);
      ctx.fill();
-       //LES 2 COTE A COTE
+       //LES 2 JUXTAPOSÉS
      ctx.beginPath();
      ctx.fillStyle = "#dbdadb";
      ctx.moveTo(960,175);
@@ -73,7 +73,7 @@ var c = document.getElementById('logo');
      ctx.lineTo(985,165);
      ctx.lineTo(1000,175);
      ctx.fill();
-       //Celui tout seul au milieu
+       //CELUI DU MILIEU
      ctx.beginPath();
      ctx.fillStyle = "#ea4e1a";
      ctx.moveTo(980,210);
@@ -84,7 +84,7 @@ var c = document.getElementById('logo');
      ctx.lineTo(965,200);
      ctx.lineTo(980,210);
      ctx.fill();
-     //LES 2 COTE A COTE A LA FIN
+     //LES 2 JUXTAPOSÉS A LA FIN
    ctx.beginPath();
    ctx.fillStyle = "#878787";
    ctx.moveTo(960,245);
@@ -105,7 +105,7 @@ var c = document.getElementById('logo');
    ctx.lineTo(985,235);
    ctx.lineTo(1000,245);
    ctx.fill();
-   //LES 3 PETIT HEXAGONE
+   //LES 3 PETITS HEXAGONES
    ctx.beginPath();
    ctx.fillStyle = "#efefef";
    ctx.moveTo(1016,190);
