@@ -1,4 +1,4 @@
-var c = document.getElementById( 'home' );
+var c = document.getElementById( 'teddy' );
 var ctx = c.getContext('2d');
 ctx.beginPath();      // Tete corps
 ctx.fillStyle ='#976F0F';
