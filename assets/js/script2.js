@@ -1,4 +1,4 @@
-var c = document.getElementById( 'home' );
+var c = document.getElementById( 'ufo' );
 var ctx = c.getContext('2d');
 ctx.beginPath();
 ctx.fillStyle ='#e0e1f3';
